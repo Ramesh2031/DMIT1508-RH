@@ -12,13 +12,10 @@ Supplemental Learning Sessions that are held at NAIT for the Fall 2019 semester.
 
 |  **Day**  |         **Time**         | **Location** |
 |:---------:|:------------------------:|:------------:|
-|           |                          |              |
-|           |                          |              |
-|           |                          |              |
+| Tuesday   |        10:00AM-11:00AM   |     WB304    |
+| Wednesday |        11:00AM-NOON      |     WB314    |
 
 ---
-
-Rosemary CONTACT
 
 Email: rosemaryh@nait.ca
 
