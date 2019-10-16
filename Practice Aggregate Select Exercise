@@ -1,3 +1,5 @@
+Use appropriate column aliases as necessary
+
 How much has each student paid for their education so far, from most to least?
 
 How long has the longest staff member worked at the school?
@@ -25,5 +27,11 @@ How much money was paid by type ‘5’?
 What’s the average grade for each course?
 
 Which students have more than three letters in their last name?
+
+What is the average payment of Albertan students?
+
+How many people have first names longer than four letters?
+
+What is the total amount of hours of Level 1 programming courses?
 
 
