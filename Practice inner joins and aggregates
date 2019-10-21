@@ -1,0 +1,14 @@
+Use column aliases as necessary.
+
+How many students can attend each class every semester? Give course names as well as numbers.
+
+What's the average mark for each instructor's class? Sort highest to lowest, and give the course name.
+
+Which class has the highest dropout rate? Include the number of dropouts.
+
+How many non-Albertan students pay by credit card? 
+
+What is the most popular form of payment, and the least? How much was paid with these payment types?
+
+How progamming classes have more than 3 students? Give the course names as well.
+
