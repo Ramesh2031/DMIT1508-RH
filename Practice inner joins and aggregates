@@ -6,9 +6,15 @@ What's the average mark for each instructor's class? Sort highest to lowest, and
 
 Which class has the highest dropout rate? Include the number of dropouts.
 
-How many non-Albertan students pay by credit card? 
+How many non-Albertan students pay by credit? 
 
 What is the most popular form of payment, and the least? How much was paid with these payment types?
 
 How progamming classes have more than 3 students? Give the course names as well.
 
+Give the names and addresses of all students who have attended classes for more than 100 hours. 
+Which courses have those students taken?
+
+Give the average mark for all students who come from Edmonton.
+
+Which teachers have given their students marks higher than 90%?
