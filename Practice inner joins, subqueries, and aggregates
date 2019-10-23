@@ -17,4 +17,4 @@ Which courses have those students taken?
 
 Give the average mark for all students who come from Edmonton. Use a subquery.
 
-Which teachers have given their students marks higher than 90%?
+Give the full names of all students, along with the number of payments they have made.
