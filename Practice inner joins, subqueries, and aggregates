@@ -18,3 +18,9 @@ Which courses have those students taken?
 Give the average mark for all students who come from Edmonton. Use a subquery.
 
 Give the full names of all students, along with the number of payments they have made.
+
+What is the total amount of time a student needs in order to take all available classes? How much will they pay?
+
+How much has the student who has paid the most paid in total?
+
+Which classes are available each semester?
