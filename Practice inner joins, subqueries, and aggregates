@@ -15,6 +15,6 @@ How many progamming classes have more than 3 students? Give the course names as 
 Give the names and addresses of all students who have attended classes for more than 100 hours. 
 Which courses have those students taken?
 
-Give the average mark for all students who come from Edmonton.
+Give the average mark for all students who come from Edmonton. Use a subquery.
 
 Which teachers have given their students marks higher than 90%?
